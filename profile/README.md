@@ -11,21 +11,15 @@
 
 ## 👋 About
 spheresys is a GitHub organization (for SPHEREß Lab) for collaborative work in **security/privacy**, **usability**, systems, and tools.  
-We value clean design, reproducibility, and actionable documentation.
 
 ## 🚀 What we build
-- Research prototypes → production-grade tools  
-- Datasets, benchmarks, and reproducible artifacts
+- Usable security & privacy tools that ship.
+- Interfaces for clear consent and privacy control.
+- Retroactive data controls (edit, delete, change visibility).
+- Auditing/measurement systems for online harms and misuse.
+- Datasets & benchmarks for privacy/security research.
+- Models that improve authentication and secure behavior.
 
-## 📦 Key repositories
-| Repo | What it is |
-|------|-------------|
-| `project-sample` | Short one-line description |
-
-> Tip: Pin your most important repos so they appear on the org home.
-
-## 🧰 Tech & practices
-- Languages: Python (update as needed)
 
 ## 🧑‍🏫 Principal Investigator
 <p align="center">
@@ -40,21 +34,19 @@ Indian Institute of Technology Kharagpur
 - **Office**: Room 316, CSE Department  
 - **Address**: IIT Kharagpur, West Bengal, PIN 721302, India  
 - **Email**: mainack.mondal@gmail.com 
+- **Website** :https://cse.iitkgp.ac.in/~mainack/
+- **Google Scholar** : https://scholar.google.co.in/citations?hl=en&user=AUllGoAAAAAJ&
 ---
 
-## 🤝 Contributing
-We welcome issues and PRs!  
-1. Open an issue with context & minimal repro.  
-2. Fork → feature branch (`feat/...` or `fix/...`).  
-3. Add tests/docs; link the issue in your PR.  
-4. PR title uses Conventional Commits (e.g., `feat: add x`).  
+```markdown
+## 🌱 Join Us
+We focus on incorporating human factors into security and privacy and designing **usable** online services. Our current work builds systems that deliver practical privacy/security mechanisms for users while **minimizing abuse**.
 
-See [`CONTRIBUTING.md`](../CONTRIBUTING.md) for full details.
+We welcome students interested in the human aspects of privacy and security who enjoy tinkering with systems. If you are a student at **IIT Kharagpur** and feel strongly about making the digital world private and secure, please reach out by email.
 
-## 🛡️ Security
-If you discover a vulnerability, **please do not open a public issue**.  
-Email: **security@spheresys.org** (update), and we’ll respond promptly.  
-Policy: [`SECURITY.md`](../SECURITY.md)
+> 💡 It’s especially helpful if you’ve taken the **Usable Security and Privacy** course.
+```
+
 
 ## 📜 Code of Conduct
 Be respectful and constructive. Read our [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md).
