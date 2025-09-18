@@ -4,7 +4,7 @@
   <img src="" width="72" alt="spheresys logo" />
 </p> -->
 
-<h1 align="center">SPHEREß Lab</h1>
+<h1 align="center">SPHERESys Lab</h1>
 <p align="center"><em>Security, Privacy, and Human Experience Research for Societal Systems Lab</em></p>
 
 ---
